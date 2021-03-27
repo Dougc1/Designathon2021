@@ -1,0 +1,40 @@
+body {
+    background-color: aquamarine;
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    background-color: white;
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-left: 4px solid whitesmoke;
+    border-right: 4px solid whitesmoke;
+}
+
+ul {
+    list-style: none;
+}
+
+.icon {
+    display: block;
+    margin: 0 auto;
+    padding: 0px 4.5% 0px;
+    float: left;
+}
+
+a:hover {
+    background-color: aqua;
+}
